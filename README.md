@@ -11,10 +11,14 @@ package main
 // Define a struct to store the data from Github API
 
 // Define a function to get top 10 stared repo data from Github API
+// parameter query: indicates user input query string
+// parameter lang: indicates user input preferred language
+// return: a slice of Repo struct
 
 // Define a function to handle the web request request
 // parameter query: indicates user input query string
 // parameter lang: indicates user input preferred language
+// return: a slice of Repo struct
 
 // Define a main function to spin up the web service, and listen on port 8000 by default
 ```
